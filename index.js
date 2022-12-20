@@ -54,7 +54,7 @@ var employees = function () {
             {
               type: "input",
               name: "department",
-              message: "What is the name of the dpeartment?",
+              message: "What is the name of the department?",
               validate: (departmentInput) => {
                 if (departmentInput) {
                   return true;
