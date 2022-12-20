@@ -16,10 +16,15 @@
   This project is the back-end of an employee tracker that contains different Departments, Roles, Employees, Salaries, Managers, and Employee
   s Title. 
 
-![slide-1](./assets/firstslide.png"Initial questions")
-![slide-2](./assets/Screen%20Shot%202022-12-19%20at%2010.42.52%20PM.png"viewing roles")
-![slide-3](./assets/Screen%20Shot%202022-12-19%20at%2010.43.08%20PM.png"creating a role")
-![slide-4](./assets/Screen%20Shot%202022-12-19%20at%2010.46.57%20PM.png"viewing employees")
+![slide-1](./assets/firstslide.png")
+## Initial Questions
+![homepage](./public/images/homepage.png)
+![slide-2](./assets/Screen%20Shot%202022-12-19%20at%2010.42.52%20PM.png)
+## Viewing Roles
+![slide-3](./assets/Screen%20Shot%202022-12-19%20at%2010.43.08%20PM.png)
+## Creating a Role
+![slide-4](./assets/Screen%20Shot%202022-12-19%20at%2010.46.57%20PM.png)
+## Viewing Employees
 
 
 ## Installation <a name="installation"></a>
