@@ -18,7 +18,6 @@
 
 ![slide-1](./assets/firstslide.png")
 ## Initial Questions
-![homepage](./public/images/homepage.png)
 ![slide-2](./assets/Screen%20Shot%202022-12-19%20at%2010.42.52%20PM.png)
 ## Viewing Roles
 ![slide-3](./assets/Screen%20Shot%202022-12-19%20at%2010.43.08%20PM.png)
